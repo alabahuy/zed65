@@ -13,4 +13,5 @@
   (lib (name "Connector")(type "Legacy")(uri "C:/Users/Annida_BRIN/Documents/KiCad/7.0/symbols/Connector.lib")(options "")(descr ""))
   (lib (name "Connector_Generic")(type "Legacy")(uri "C:/Users/Annida_BRIN/Documents/KiCad/7.0/symbols/Connector_Generic.lib")(options "")(descr ""))
   (lib (name "Device")(type "Legacy")(uri "C:/Users/Annida_BRIN/Documents/KiCad/7.0/symbols/Device.lib")(options "")(descr ""))
+  (lib (name "tahutech")(type "Legacy")(uri "${KIPRJMOD}/tahutech.pretty/symbols/tahutech.lib")(options "")(descr ""))
 )

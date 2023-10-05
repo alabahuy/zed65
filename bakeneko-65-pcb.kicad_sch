@@ -2824,7 +2824,7 @@
     (property "Value" "ATmega32U4-AU" (at 36.83 152.4 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_QFP:TQFP-44_10x10mm_P0.8mm" (at 58.42 128.27 0)
+    (property "Footprint" "tahutech:Hybrid Atmega32u4" (at 58.42 128.27 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" (at 58.42 128.27 0)
